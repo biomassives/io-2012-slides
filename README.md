@@ -1,4 +1,5 @@
-<style>
+
+<pre><style>
 @import "http://fonts.googleapis.com/css?family=Open Sans:regular,semibold,italic,italicsemibold|Inconsolata&amp;v2";
 body {
   font-family: "Open Sans";
@@ -45,6 +46,7 @@ pre {
   border-left: 3px solid #ccc;
 }
 </style>
+</pre>
 
 <h1><img src="images/io2012_logo.png"> HTML5 Slide Template</h1>
 
